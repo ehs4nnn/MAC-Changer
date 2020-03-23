@@ -23,13 +23,13 @@
       <                    Linkedin: es4nnn                             >
           -+ - + - + - + - + - + - + - + - + - + - + - + - + - + - +-
 --------------------------------------------------------------------------------
-#
-#     __  __    _    ____    ____ _                                 
-#    |  \/  |  / \  / ___|  / ___| |__   __ _ _ __   __ _  ___ _ __ 
-#    | |\/| | / _ \| |     | |   | '_ \ / _` | '_ \ / _` |/ _ \ '__|
-#    | |  | |/ ___ \ |___  | |___| | | | (_| | | | | (_| |  __/ |   
-#    |_|  |_/_/   \_\____|  \____|_| |_|\__,_|_| |_|\__, |\___|_|   
-#                                                   |___/           
+
+             __  __    _    ____    ____ _                                 
+            |  \/  |  / \  / ___|  / ___| |__   __ _ _ __   __ _  ___ _ __ 
+            | |\/| | / _ \| |     | |   | '_ \ / _` | '_ \ / _` |/ _ \ '__|
+            | |  | |/ ___ \ |___  | |___| | | | (_| | | | | (_| |  __/ |   
+            |_|  |_/_/   \_\____|  \____|_| |_|\__,_|_| |_|\__, |\___|_|   
+                                                           |___/           
 
 
 #About Mac Changer
@@ -38,10 +38,16 @@
     And Also, You Can Develop This Tool As A Python Programmer More Easy, Because
     This Tools Is Writen By Python And Using The Standard Names For Each Objects
     And Functions And Variables :) 
-    
+
+#Installation
+        sudo git clone https://github.com/ehs4nnn/mac_changer.git
+        cd mac_changer
+        python3 mac_changer.py --help
+        
+
 #How To Using
 
-    Usage: mac_changer_with_Function_And_if_statments.py [options]
+    Usage: mac_changer.py [options]
 
 Options:
   -h, --help            show this help message and exit
@@ -49,3 +55,6 @@ Options:
                         Using This Options To Put Your Interface
   -m NEW_MAC, --mac=NEW_MAC
                         Using This Options To Put A MAC Address
+                        
+                        
+    
