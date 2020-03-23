@@ -1,5 +1,5 @@
                 "                                About Creater                                 "
-                        My name is Ehsan, I'm 18 Years Old, I Live In Soran On Kurdistan
+                        My name is Ehsan, I'm 18 Years Old, I Live In Soran in Kurdistan
                           Which Is A Part And Region Of Iraq, I'm A Ethical Hacker And 
                         Cyber Security Reasercher, And Also I'm A Programmer And Web Designer
                                              And Web Developer :)
@@ -14,8 +14,8 @@
                
                              
                 "                               Need A Help?                                   "
-                        Don't Worry, If You Have A Question Or A Mistake Aboute Anything
-                               You Can Contact Me With This Above Options
+                        Don't Worry, If You Have A Question Or A Mistake About Anything
+                            You Can Contact Me With This Down Options On This Page
                           -+ - + - + - + - + - + - + - + - + - + - + - + - + - + - +-
                       <                    Email: ehsan@rajekar.com                     >
                       <                    FaceBook: Ehsan Faramarz                     >
