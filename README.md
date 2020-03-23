@@ -33,8 +33,8 @@
 
 
         #About Mac Changer
-            Mac Changer Is A Simple Tool To Change Your Mac Address Created For Linux 
-            With Mac Changer You Can Change Your Mac Address More Easy As Linux Commands
+            Mac Changer Is A Simple Tool To Change You Interfaces Mac Address, is Created For Linux 
+            With Python3, You Can Change Your Mac Address More Easy As A New Linux User
             And Also, You Can Develop This Tool As A Python Programmer More Easy, Because
             This Tools Is Writen By Python And Using The Standard Names For Each Objects
             And Functions And Variables :) 
