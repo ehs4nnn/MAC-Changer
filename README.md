@@ -42,6 +42,7 @@
         #Installation
                 sudo git clone https://github.com/ehs4nnn/mac_changer.git
                 cd mac_changer
+                sudo chmod +x MAC_Changer.py
                 python3 mac_changer.py --help
 
 
