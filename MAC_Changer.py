@@ -4,6 +4,23 @@ import subprocess
 import optparse
 import re
 
+figlet_name = """
+
+		 __  __    _    ____    ____ _                                 
+                |  \/  |  / \  / ___|  / ___| |__   __ _ _ __   __ _  ___ _ __ 
+                | |\/| | / _ \| |     | |   | '_ \ / _` | '_ \ / _` |/ _ \ '__|
+                | |  | |/ ___ \ |___  | |___| | | | (_| | | | | (_| |  __/ |   
+                |_|  |_/_/   \_\____|  \____|_| |_|\__,_|_| |_|\__, |\___|_|   
+                                                               |___/           
+       <-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+->
+                            By: EhSaN FaRaMaRz
+                    GiTHuB: https://github.com/ehs4nnn/
+                     yOuTubE: https://bit.ly/3aiMyjV
+                        EmAiL: ehsan@rajekar.com
+       <-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+->								      
+"""
+
+print(figlet_name)
 def mac_cahnger(interface, new_mac):
 	print("[+] Changeing MAC Address For " + interface + " To " + new_mac)
 	subprocess.call(["sudo", "ifconfig", interface, "down"])
@@ -41,4 +58,4 @@ mac_cahnger(options.interface, options.new_mac)
 if currentm == options.new_mac:
 	print("[+] MAC address was successfully changed to " + currentm)
 else:
-	print("[-] MAC address did not get the change")
+	print("[-] MAC address did not get change")
