@@ -55,7 +55,9 @@ currentm = get_current_mac(options.interface)
 print("Current Mac = " + str(currentm))
 mac_cahnger(options.interface, options.new_mac)
 
-if currentm == options.new_mac:
-	print("[+] MAC address was successfully changed to " + currentm)
-else:
-	print("[-] MAC address did not get change")
+def results():
+	if currentm == options.new_mac:
+		print("[+] MAC address was successfully changed to " + currentm)
+	else:
+		print("[-] MAC address did not get change")
+results()
