@@ -13,10 +13,10 @@ figlet_name = """
                 |_|  |_/_/   \_\____|  \____|_| |_|\__,_|_| |_|\__, |\___|_|   
                                                                |___/           
        <-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+->
-                            By: EhSaN FaRaMaRz
-                    GiTHuB: https://github.com/ehs4nnn/
+                              By: TheXerr0r
+                    GiTHuB: https://github.com/TheXerr0r/
                      yOuTubE: https://bit.ly/3aiMyjV
-                        EmAiL: ehsan@rajekar.com
+                        EmAiL: TheXerr0r@rajekar.com
        <-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+->								      
 """
 
